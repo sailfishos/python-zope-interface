@@ -1,0 +1,3 @@
+[submodule "zope.interface"]
+	path = zope.interface
+	url = https://github.com/zopefoundation/zope.interface.git
